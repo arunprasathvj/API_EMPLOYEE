@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [InetBanking_V1]" parallel="classes">
+  <test thread-count="3" name="my won test (failed)" parallel="classes">
+    <classes>
+      <class name="TC.Get_API">
+        <methods>
+          <include name="checkcontentencoding"/>
+          <include name="checkstatuscode"/>
+          <include name="teardown"/>
+          <include name="checkstatusline"/>
+          <include name="checkcontentlength"/>
+          <include name="startup"/>
+          <include name="get"/>
+        </methods>
+      </class> <!-- TC.Get_API -->
+      <class name="TC.GET_Employedetails">
+        <methods>
+          <include name="checkcontentencoding"/>
+          <include name="checkresponse"/>
+          <include name="checkserver"/>
+          <include name="teardown"/>
+          <include name="checkcontenttype"/>
+          <include name="checkstatusline"/>
+          <include name="getempdetails"/>
+          <include name="startup"/>
+          <include name="checkstatuscode"/>
+        </methods>
+      </class> <!-- TC.GET_Employedetails -->
+      <class name="TC.DELETE_APITesting">
+        <methods>
+          <include name="checkStatusCode"/>
+          <include name="tearDown"/>
+          <include name="delect"/>
+          <include name="checkstatusLine"/>
+          <include name="startup"/>
+        </methods>
+      </class> <!-- TC.DELETE_APITesting -->
+    </classes>
+  </test> <!-- my won test (failed) -->
+</suite> <!-- Failed suite [InetBanking_V1] -->

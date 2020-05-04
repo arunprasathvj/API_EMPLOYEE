@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="API TESTING PROJECT" >
+
+<listeners >
+<listener class-name = "Utills.reports"/>
+
+</listeners>
+<test name = "my won test ">
+
+
+<classes>
+<class name = "TC.API_PostempDetails"/>
+<class name ="TC.DELETE_APITesting"/>
+<class name = "TC.Get_API"/>
+<class name = "TC.GET_Employedetails"/>
+<class name = "TC.PUT_UpdateEmpdetails"/>
+
+
+</classes>
+
+</test>
+
+</suite>

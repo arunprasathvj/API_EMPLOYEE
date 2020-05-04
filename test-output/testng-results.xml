@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="33" passed="33">
+  <reporter-output>
+  </reporter-output>
+  <suite name="API TESTING PROJECT" duration-ms="37364" started-at="2020-05-04T11:13:44Z" finished-at="2020-05-04T11:14:21Z">
+    <groups>
+    </groups>
+    <test name="my won test " duration-ms="37364" started-at="2020-05-04T11:13:44Z" finished-at="2020-05-04T11:14:21Z">
+      <class name="TC.API_PostempDetails">
+        <test-method status="PASS" signature="startup()[pri:0, instance:TC.API_PostempDetails@159c4b8]" name="startup" is-config="true" duration-ms="422" started-at="2020-05-04T11:13:45Z" finished-at="2020-05-04T11:13:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="post()[pri:0, instance:TC.API_PostempDetails@159c4b8]" name="post" is-config="true" duration-ms="10374" started-at="2020-05-04T11:13:45Z" finished-at="2020-05-04T11:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+        <test-method status="PASS" signature="checkcontenttype()[pri:0, instance:TC.API_PostempDetails@159c4b8]" name="checkcontenttype" duration-ms="31" started-at="2020-05-04T11:13:56Z" finished-at="2020-05-04T11:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcontenttype -->
+        <test-method status="PASS" signature="checkresponse()[pri:0, instance:TC.API_PostempDetails@159c4b8]" name="checkresponse" duration-ms="63" started-at="2020-05-04T11:13:56Z" finished-at="2020-05-04T11:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkresponse -->
+        <test-method status="PASS" signature="checkserver()[pri:0, instance:TC.API_PostempDetails@159c4b8]" name="checkserver" duration-ms="16" started-at="2020-05-04T11:13:56Z" finished-at="2020-05-04T11:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkserver -->
+        <test-method status="PASS" signature="checkstatuscode()[pri:0, instance:TC.API_PostempDetails@159c4b8]" name="checkstatuscode" duration-ms="0" started-at="2020-05-04T11:13:56Z" finished-at="2020-05-04T11:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatuscode -->
+        <test-method status="PASS" signature="checkstatusline()[pri:0, instance:TC.API_PostempDetails@159c4b8]" name="checkstatusline" duration-ms="47" started-at="2020-05-04T11:13:56Z" finished-at="2020-05-04T11:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatusline -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TC.API_PostempDetails@159c4b8]" name="teardown" is-config="true" duration-ms="0" started-at="2020-05-04T11:13:56Z" finished-at="2020-05-04T11:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TC.API_PostempDetails -->
+      <class name="TC.DELETE_APITesting">
+        <test-method status="PASS" signature="startup()[pri:0, instance:TC.DELETE_APITesting@1846619]" name="startup" is-config="true" duration-ms="31" started-at="2020-05-04T11:13:56Z" finished-at="2020-05-04T11:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="delect()[pri:0, instance:TC.DELETE_APITesting@1846619]" name="delect" is-config="true" duration-ms="8156" started-at="2020-05-04T11:13:56Z" finished-at="2020-05-04T11:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delect -->
+        <test-method status="PASS" signature="checkContentType()[pri:0, instance:TC.DELETE_APITesting@1846619]" name="checkContentType" duration-ms="0" started-at="2020-05-04T11:14:04Z" finished-at="2020-05-04T11:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentType -->
+        <test-method status="PASS" signature="checkStatusCode()[pri:0, instance:TC.DELETE_APITesting@1846619]" name="checkStatusCode" duration-ms="0" started-at="2020-05-04T11:14:04Z" finished-at="2020-05-04T11:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCode -->
+        <test-method status="PASS" signature="checkcontentEncoding()[pri:0, instance:TC.DELETE_APITesting@1846619]" name="checkcontentEncoding" duration-ms="0" started-at="2020-05-04T11:14:04Z" finished-at="2020-05-04T11:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcontentEncoding -->
+        <test-method status="PASS" signature="checkresponsebody()[pri:0, instance:TC.DELETE_APITesting@1846619]" name="checkresponsebody" duration-ms="19" started-at="2020-05-04T11:14:04Z" finished-at="2020-05-04T11:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkresponsebody -->
+        <test-method status="PASS" signature="checkserverType()[pri:0, instance:TC.DELETE_APITesting@1846619]" name="checkserverType" duration-ms="0" started-at="2020-05-04T11:14:04Z" finished-at="2020-05-04T11:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkserverType -->
+        <test-method status="PASS" signature="checkstatusLine()[pri:0, instance:TC.DELETE_APITesting@1846619]" name="checkstatusLine" duration-ms="31" started-at="2020-05-04T11:14:05Z" finished-at="2020-05-04T11:14:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatusLine -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TC.DELETE_APITesting@1846619]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-05-04T11:14:05Z" finished-at="2020-05-04T11:14:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TC.DELETE_APITesting -->
+      <class name="TC.GET_Employedetails">
+        <test-method status="PASS" signature="startup()[pri:0, instance:TC.GET_Employedetails@1ca901e]" name="startup" is-config="true" duration-ms="16" started-at="2020-05-04T11:14:10Z" finished-at="2020-05-04T11:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="getempdetails()[pri:0, instance:TC.GET_Employedetails@1ca901e]" name="getempdetails" is-config="true" duration-ms="6156" started-at="2020-05-04T11:14:10Z" finished-at="2020-05-04T11:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getempdetails -->
+        <test-method status="PASS" signature="checkcontentencoding()[pri:0, instance:TC.GET_Employedetails@1ca901e]" name="checkcontentencoding" duration-ms="7" started-at="2020-05-04T11:14:16Z" finished-at="2020-05-04T11:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcontentencoding -->
+        <test-method status="PASS" signature="checkcontentlength()[pri:0, instance:TC.GET_Employedetails@1ca901e]" name="checkcontentlength" duration-ms="0" started-at="2020-05-04T11:14:16Z" finished-at="2020-05-04T11:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcontentlength -->
+        <test-method status="PASS" signature="checkcontenttype()[pri:0, instance:TC.GET_Employedetails@1ca901e]" name="checkcontenttype" duration-ms="0" started-at="2020-05-04T11:14:16Z" finished-at="2020-05-04T11:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcontenttype -->
+        <test-method status="PASS" signature="checkresponse()[pri:0, instance:TC.GET_Employedetails@1ca901e]" name="checkresponse" duration-ms="141" started-at="2020-05-04T11:14:16Z" finished-at="2020-05-04T11:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkresponse -->
+        <test-method status="PASS" signature="checkresponsetime()[pri:0, instance:TC.GET_Employedetails@1ca901e]" name="checkresponsetime" duration-ms="0" started-at="2020-05-04T11:14:17Z" finished-at="2020-05-04T11:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkresponsetime -->
+        <test-method status="PASS" signature="checkserver()[pri:0, instance:TC.GET_Employedetails@1ca901e]" name="checkserver" duration-ms="32" started-at="2020-05-04T11:14:17Z" finished-at="2020-05-04T11:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkserver -->
+        <test-method status="PASS" signature="checkstatuscode()[pri:0, instance:TC.GET_Employedetails@1ca901e]" name="checkstatuscode" duration-ms="0" started-at="2020-05-04T11:14:17Z" finished-at="2020-05-04T11:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatuscode -->
+        <test-method status="PASS" signature="checkstatusline()[pri:0, instance:TC.GET_Employedetails@1ca901e]" name="checkstatusline" duration-ms="16" started-at="2020-05-04T11:14:17Z" finished-at="2020-05-04T11:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatusline -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TC.GET_Employedetails@1ca901e]" name="teardown" is-config="true" duration-ms="0" started-at="2020-05-04T11:14:17Z" finished-at="2020-05-04T11:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TC.GET_Employedetails -->
+      <class name="TC.Get_API">
+        <test-method status="PASS" signature="get()[pri:0, instance:TC.Get_API@1ec1f0c]" name="get" is-config="true" duration-ms="5344" started-at="2020-05-04T11:14:05Z" finished-at="2020-05-04T11:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:TC.Get_API@1ec1f0c]" name="startup" is-config="true" duration-ms="0" started-at="2020-05-04T11:14:05Z" finished-at="2020-05-04T11:14:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="checkcontentencoding()[pri:0, instance:TC.Get_API@1ec1f0c]" name="checkcontentencoding" duration-ms="6" started-at="2020-05-04T11:14:10Z" finished-at="2020-05-04T11:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcontentencoding -->
+        <test-method status="PASS" signature="checkcontentlength()[pri:0, instance:TC.Get_API@1ec1f0c]" name="checkcontentlength" duration-ms="0" started-at="2020-05-04T11:14:10Z" finished-at="2020-05-04T11:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcontentlength -->
+        <test-method status="PASS" signature="checkcontenttype()[pri:0, instance:TC.Get_API@1ec1f0c]" name="checkcontenttype" duration-ms="0" started-at="2020-05-04T11:14:10Z" finished-at="2020-05-04T11:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcontenttype -->
+        <test-method status="PASS" signature="checkresponsetime()[pri:0, instance:TC.Get_API@1ec1f0c]" name="checkresponsetime" duration-ms="15" started-at="2020-05-04T11:14:10Z" finished-at="2020-05-04T11:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkresponsetime -->
+        <test-method status="PASS" signature="checkserver()[pri:0, instance:TC.Get_API@1ec1f0c]" name="checkserver" duration-ms="0" started-at="2020-05-04T11:14:10Z" finished-at="2020-05-04T11:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkserver -->
+        <test-method status="PASS" signature="checkstatuscode()[pri:0, instance:TC.Get_API@1ec1f0c]" name="checkstatuscode" duration-ms="0" started-at="2020-05-04T11:14:10Z" finished-at="2020-05-04T11:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatuscode -->
+        <test-method status="PASS" signature="checkstatusline()[pri:0, instance:TC.Get_API@1ec1f0c]" name="checkstatusline" duration-ms="63" started-at="2020-05-04T11:14:10Z" finished-at="2020-05-04T11:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatusline -->
+        <test-method status="PASS" signature="responsebody()[pri:0, instance:TC.Get_API@1ec1f0c]" name="responsebody" duration-ms="16" started-at="2020-05-04T11:14:10Z" finished-at="2020-05-04T11:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responsebody -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TC.Get_API@1ec1f0c]" name="teardown" is-config="true" duration-ms="0" started-at="2020-05-04T11:14:10Z" finished-at="2020-05-04T11:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TC.Get_API -->
+      <class name="TC.PUT_UpdateEmpdetails">
+        <test-method status="PASS" signature="startup()[pri:0, instance:TC.PUT_UpdateEmpdetails@49fd9b]" name="startup" is-config="true" duration-ms="15" started-at="2020-05-04T11:14:17Z" finished-at="2020-05-04T11:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="put()[pri:0, instance:TC.PUT_UpdateEmpdetails@49fd9b]" name="put" is-config="true" duration-ms="4610" started-at="2020-05-04T11:14:17Z" finished-at="2020-05-04T11:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- put -->
+        <test-method status="PASS" signature="checkContentType()[pri:0, instance:TC.PUT_UpdateEmpdetails@49fd9b]" name="checkContentType" duration-ms="0" started-at="2020-05-04T11:14:21Z" finished-at="2020-05-04T11:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentType -->
+        <test-method status="PASS" signature="checkStatusCode()[pri:0, instance:TC.PUT_UpdateEmpdetails@49fd9b]" name="checkStatusCode" duration-ms="15" started-at="2020-05-04T11:14:21Z" finished-at="2020-05-04T11:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCode -->
+        <test-method status="PASS" signature="checkcontentEncoding()[pri:0, instance:TC.PUT_UpdateEmpdetails@49fd9b]" name="checkcontentEncoding" duration-ms="0" started-at="2020-05-04T11:14:21Z" finished-at="2020-05-04T11:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcontentEncoding -->
+        <test-method status="PASS" signature="checkresponse()[pri:0, instance:TC.PUT_UpdateEmpdetails@49fd9b]" name="checkresponse" duration-ms="12" started-at="2020-05-04T11:14:21Z" finished-at="2020-05-04T11:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkresponse -->
+        <test-method status="PASS" signature="checkserverType()[pri:0, instance:TC.PUT_UpdateEmpdetails@49fd9b]" name="checkserverType" duration-ms="0" started-at="2020-05-04T11:14:21Z" finished-at="2020-05-04T11:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkserverType -->
+        <test-method status="PASS" signature="checkstatusLine()[pri:0, instance:TC.PUT_UpdateEmpdetails@49fd9b]" name="checkstatusLine" duration-ms="16" started-at="2020-05-04T11:14:21Z" finished-at="2020-05-04T11:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatusLine -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TC.PUT_UpdateEmpdetails@49fd9b]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-05-04T11:14:21Z" finished-at="2020-05-04T11:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TC.PUT_UpdateEmpdetails -->
+    </test> <!-- my won test  -->
+  </suite> <!-- API TESTING PROJECT -->
+</testng-results>

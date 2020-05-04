@@ -1,0 +1,983 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-API_TESTING_PROJECT">
+              <span class="suite-name border-passed">API TESTING PROJECT</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-API_TESTING_PROJECT">
+                    <span>C:\Users\Anadh\eclipse-workspace\API_FrameWork\TestNG.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-API_TESTING_PROJECT">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-API_TESTING_PROJECT">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-API_TESTING_PROJECT">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-API_TESTING_PROJECT">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-API_TESTING_PROJECT">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-API_TESTING_PROJECT">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">33 methods,   33 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-API_TESTING_PROJECT" class="hide-methods passed suite-API_TESTING_PROJECT"> (hide)</a> <!-- hide-methods passed suite-API_TESTING_PROJECT -->
+                      <a href="#" panel-name="suite-API_TESTING_PROJECT" class="show-methods passed suite-API_TESTING_PROJECT"> (show)</a> <!-- show-methods passed suite-API_TESTING_PROJECT -->
+                    </span>
+                    <div class="method-list-content passed suite-API_TESTING_PROJECT">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.PUT_UpdateEmpdetails" hash-for-method="checkContentType">checkContentType</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.DELETE_APITesting" hash-for-method="checkContentType">checkContentType</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.PUT_UpdateEmpdetails" hash-for-method="checkStatusCode">checkStatusCode</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.DELETE_APITesting" hash-for-method="checkStatusCode">checkStatusCode</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.PUT_UpdateEmpdetails" hash-for-method="checkcontentEncoding">checkcontentEncoding</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.DELETE_APITesting" hash-for-method="checkcontentEncoding">checkcontentEncoding</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.Get_API" hash-for-method="checkcontentencoding">checkcontentencoding</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.GET_Employedetails" hash-for-method="checkcontentencoding">checkcontentencoding</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.GET_Employedetails" hash-for-method="checkcontentlength">checkcontentlength</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.Get_API" hash-for-method="checkcontentlength">checkcontentlength</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.API_PostempDetails" hash-for-method="checkcontenttype">checkcontenttype</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.GET_Employedetails" hash-for-method="checkcontenttype">checkcontenttype</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.Get_API" hash-for-method="checkcontenttype">checkcontenttype</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.GET_Employedetails" hash-for-method="checkresponse">checkresponse</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.PUT_UpdateEmpdetails" hash-for-method="checkresponse">checkresponse</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.API_PostempDetails" hash-for-method="checkresponse">checkresponse</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.DELETE_APITesting" hash-for-method="checkresponsebody">checkresponsebody</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.GET_Employedetails" hash-for-method="checkresponsetime">checkresponsetime</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.Get_API" hash-for-method="checkresponsetime">checkresponsetime</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.API_PostempDetails" hash-for-method="checkserver">checkserver</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.GET_Employedetails" hash-for-method="checkserver">checkserver</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.Get_API" hash-for-method="checkserver">checkserver</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.PUT_UpdateEmpdetails" hash-for-method="checkserverType">checkserverType</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.DELETE_APITesting" hash-for-method="checkserverType">checkserverType</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.PUT_UpdateEmpdetails" hash-for-method="checkstatusLine">checkstatusLine</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.DELETE_APITesting" hash-for-method="checkstatusLine">checkstatusLine</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.Get_API" hash-for-method="checkstatuscode">checkstatuscode</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.GET_Employedetails" hash-for-method="checkstatuscode">checkstatuscode</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.API_PostempDetails" hash-for-method="checkstatuscode">checkstatuscode</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.API_PostempDetails" hash-for-method="checkstatusline">checkstatusline</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.Get_API" hash-for-method="checkstatusline">checkstatusline</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.GET_Employedetails" hash-for-method="checkstatusline">checkstatusline</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-API_TESTING_PROJECT" title="TC.Get_API" hash-for-method="responsebody">responsebody</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-API_TESTING_PROJECT -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-API_TESTING_PROJECT" class="panel API_TESTING_PROJECT">
+          <div class="suite-API_TESTING_PROJECT-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">TC.DELETE_APITesting</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkContentType">
+                  </a> <!-- checkContentType -->
+                  <span class="method-name">checkContentType</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkStatusCode">
+                  </a> <!-- checkStatusCode -->
+                  <span class="method-name">checkStatusCode</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkcontentEncoding">
+                  </a> <!-- checkcontentEncoding -->
+                  <span class="method-name">checkcontentEncoding</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkresponsebody">
+                  </a> <!-- checkresponsebody -->
+                  <span class="method-name">checkresponsebody</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkserverType">
+                  </a> <!-- checkserverType -->
+                  <span class="method-name">checkserverType</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkstatusLine">
+                  </a> <!-- checkstatusLine -->
+                  <span class="method-name">checkstatusLine</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-API_TESTING_PROJECT-class-passed -->
+          <div class="suite-API_TESTING_PROJECT-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">TC.Get_API</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkcontentencoding">
+                  </a> <!-- checkcontentencoding -->
+                  <span class="method-name">checkcontentencoding</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkcontentlength">
+                  </a> <!-- checkcontentlength -->
+                  <span class="method-name">checkcontentlength</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkcontenttype">
+                  </a> <!-- checkcontenttype -->
+                  <span class="method-name">checkcontenttype</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkresponsetime">
+                  </a> <!-- checkresponsetime -->
+                  <span class="method-name">checkresponsetime</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkserver">
+                  </a> <!-- checkserver -->
+                  <span class="method-name">checkserver</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkstatuscode">
+                  </a> <!-- checkstatuscode -->
+                  <span class="method-name">checkstatuscode</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkstatusline">
+                  </a> <!-- checkstatusline -->
+                  <span class="method-name">checkstatusline</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="responsebody">
+                  </a> <!-- responsebody -->
+                  <span class="method-name">responsebody</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-API_TESTING_PROJECT-class-passed -->
+          <div class="suite-API_TESTING_PROJECT-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">TC.GET_Employedetails</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkcontentencoding">
+                  </a> <!-- checkcontentencoding -->
+                  <span class="method-name">checkcontentencoding</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkcontentlength">
+                  </a> <!-- checkcontentlength -->
+                  <span class="method-name">checkcontentlength</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkcontenttype">
+                  </a> <!-- checkcontenttype -->
+                  <span class="method-name">checkcontenttype</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkresponse">
+                  </a> <!-- checkresponse -->
+                  <span class="method-name">checkresponse</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkresponsetime">
+                  </a> <!-- checkresponsetime -->
+                  <span class="method-name">checkresponsetime</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkserver">
+                  </a> <!-- checkserver -->
+                  <span class="method-name">checkserver</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkstatuscode">
+                  </a> <!-- checkstatuscode -->
+                  <span class="method-name">checkstatuscode</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkstatusline">
+                  </a> <!-- checkstatusline -->
+                  <span class="method-name">checkstatusline</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-API_TESTING_PROJECT-class-passed -->
+          <div class="suite-API_TESTING_PROJECT-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">TC.PUT_UpdateEmpdetails</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkContentType">
+                  </a> <!-- checkContentType -->
+                  <span class="method-name">checkContentType</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkStatusCode">
+                  </a> <!-- checkStatusCode -->
+                  <span class="method-name">checkStatusCode</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkcontentEncoding">
+                  </a> <!-- checkcontentEncoding -->
+                  <span class="method-name">checkcontentEncoding</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkresponse">
+                  </a> <!-- checkresponse -->
+                  <span class="method-name">checkresponse</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkserverType">
+                  </a> <!-- checkserverType -->
+                  <span class="method-name">checkserverType</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkstatusLine">
+                  </a> <!-- checkstatusLine -->
+                  <span class="method-name">checkstatusLine</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-API_TESTING_PROJECT-class-passed -->
+          <div class="suite-API_TESTING_PROJECT-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">TC.API_PostempDetails</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkcontenttype">
+                  </a> <!-- checkcontenttype -->
+                  <span class="method-name">checkcontenttype</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkresponse">
+                  </a> <!-- checkresponse -->
+                  <span class="method-name">checkresponse</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkserver">
+                  </a> <!-- checkserver -->
+                  <span class="method-name">checkserver</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkstatuscode">
+                  </a> <!-- checkstatuscode -->
+                  <span class="method-name">checkstatuscode</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkstatusline">
+                  </a> <!-- checkstatusline -->
+                  <span class="method-name">checkstatusline</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-API_TESTING_PROJECT-class-passed -->
+        </div> <!-- panel API_TESTING_PROJECT -->
+        <div panel-name="test-xml-API_TESTING_PROJECT" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\Anadh\eclipse-workspace\API_FrameWork\TestNG.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;API TESTING PROJECT&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;Utills.reports&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;my won test &quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;TC.API_PostempDetails&quot;/&gt;
+      &lt;class name=&quot;TC.DELETE_APITesting&quot;/&gt;
+      &lt;class name=&quot;TC.Get_API&quot;/&gt;
+      &lt;class name=&quot;TC.GET_Employedetails&quot;/&gt;
+      &lt;class name=&quot;TC.PUT_UpdateEmpdetails&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- my won test  --&gt;
+&lt;/suite&gt; &lt;!-- API TESTING PROJECT --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-API_TESTING_PROJECT" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for API TESTING PROJECT</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">my won test  (5 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-API_TESTING_PROJECT" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for API TESTING PROJECT</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-API_TESTING_PROJECT" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for API TESTING PROJECT</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_API_TESTING_PROJECT');
+function tableData_API_TESTING_PROJECT() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(33);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'checkresponse')
+data.setCell(0, 2, 'TC.GET_Employedetails')
+data.setCell(0, 3, 141);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'checkresponse')
+data.setCell(1, 2, 'TC.API_PostempDetails')
+data.setCell(1, 3, 63);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'checkstatusline')
+data.setCell(2, 2, 'TC.Get_API')
+data.setCell(2, 3, 63);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'checkstatusline')
+data.setCell(3, 2, 'TC.API_PostempDetails')
+data.setCell(3, 3, 47);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'checkserver')
+data.setCell(4, 2, 'TC.GET_Employedetails')
+data.setCell(4, 3, 32);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'checkcontenttype')
+data.setCell(5, 2, 'TC.API_PostempDetails')
+data.setCell(5, 3, 31);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'checkstatusLine')
+data.setCell(6, 2, 'TC.DELETE_APITesting')
+data.setCell(6, 3, 31);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'checkresponsebody')
+data.setCell(7, 2, 'TC.DELETE_APITesting')
+data.setCell(7, 3, 19);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'checkstatusLine')
+data.setCell(8, 2, 'TC.PUT_UpdateEmpdetails')
+data.setCell(8, 3, 16);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'checkstatusline')
+data.setCell(9, 2, 'TC.GET_Employedetails')
+data.setCell(9, 3, 16);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'checkserver')
+data.setCell(10, 2, 'TC.API_PostempDetails')
+data.setCell(10, 3, 16);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'responsebody')
+data.setCell(11, 2, 'TC.Get_API')
+data.setCell(11, 3, 16);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'checkStatusCode')
+data.setCell(12, 2, 'TC.PUT_UpdateEmpdetails')
+data.setCell(12, 3, 15);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'checkresponsetime')
+data.setCell(13, 2, 'TC.Get_API')
+data.setCell(13, 3, 15);
+data.setCell(14, 0, 14)
+data.setCell(14, 1, 'checkresponse')
+data.setCell(14, 2, 'TC.PUT_UpdateEmpdetails')
+data.setCell(14, 3, 12);
+data.setCell(15, 0, 15)
+data.setCell(15, 1, 'checkcontentencoding')
+data.setCell(15, 2, 'TC.GET_Employedetails')
+data.setCell(15, 3, 7);
+data.setCell(16, 0, 16)
+data.setCell(16, 1, 'checkcontentencoding')
+data.setCell(16, 2, 'TC.Get_API')
+data.setCell(16, 3, 6);
+data.setCell(17, 0, 17)
+data.setCell(17, 1, 'checkContentType')
+data.setCell(17, 2, 'TC.PUT_UpdateEmpdetails')
+data.setCell(17, 3, 0);
+data.setCell(18, 0, 18)
+data.setCell(18, 1, 'checkstatuscode')
+data.setCell(18, 2, 'TC.Get_API')
+data.setCell(18, 3, 0);
+data.setCell(19, 0, 19)
+data.setCell(19, 1, 'checkcontentlength')
+data.setCell(19, 2, 'TC.GET_Employedetails')
+data.setCell(19, 3, 0);
+data.setCell(20, 0, 20)
+data.setCell(20, 1, 'checkstatuscode')
+data.setCell(20, 2, 'TC.GET_Employedetails')
+data.setCell(20, 3, 0);
+data.setCell(21, 0, 21)
+data.setCell(21, 1, 'checkresponsetime')
+data.setCell(21, 2, 'TC.GET_Employedetails')
+data.setCell(21, 3, 0);
+data.setCell(22, 0, 22)
+data.setCell(22, 1, 'checkstatuscode')
+data.setCell(22, 2, 'TC.API_PostempDetails')
+data.setCell(22, 3, 0);
+data.setCell(23, 0, 23)
+data.setCell(23, 1, 'checkserverType')
+data.setCell(23, 2, 'TC.PUT_UpdateEmpdetails')
+data.setCell(23, 3, 0);
+data.setCell(24, 0, 24)
+data.setCell(24, 1, 'checkContentType')
+data.setCell(24, 2, 'TC.DELETE_APITesting')
+data.setCell(24, 3, 0);
+data.setCell(25, 0, 25)
+data.setCell(25, 1, 'checkStatusCode')
+data.setCell(25, 2, 'TC.DELETE_APITesting')
+data.setCell(25, 3, 0);
+data.setCell(26, 0, 26)
+data.setCell(26, 1, 'checkcontenttype')
+data.setCell(26, 2, 'TC.GET_Employedetails')
+data.setCell(26, 3, 0);
+data.setCell(27, 0, 27)
+data.setCell(27, 1, 'checkcontentEncoding')
+data.setCell(27, 2, 'TC.PUT_UpdateEmpdetails')
+data.setCell(27, 3, 0);
+data.setCell(28, 0, 28)
+data.setCell(28, 1, 'checkcontentEncoding')
+data.setCell(28, 2, 'TC.DELETE_APITesting')
+data.setCell(28, 3, 0);
+data.setCell(29, 0, 29)
+data.setCell(29, 1, 'checkcontenttype')
+data.setCell(29, 2, 'TC.Get_API')
+data.setCell(29, 3, 0);
+data.setCell(30, 0, 30)
+data.setCell(30, 1, 'checkserver')
+data.setCell(30, 2, 'TC.Get_API')
+data.setCell(30, 3, 0);
+data.setCell(31, 0, 31)
+data.setCell(31, 1, 'checkserverType')
+data.setCell(31, 2, 'TC.DELETE_APITesting')
+data.setCell(31, 3, 0);
+data.setCell(32, 0, 32)
+data.setCell(32, 1, 'checkcontentlength')
+data.setCell(32, 2, 'TC.Get_API')
+data.setCell(32, 3, 0);
+window.suiteTableData['API_TESTING_PROJECT']= { tableData: data, tableDiv: 'times-div-API_TESTING_PROJECT'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 546 ms</span>
+              <div id="times-div-API_TESTING_PROJECT">
+              </div> <!-- times-div-API_TESTING_PROJECT -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-API_TESTING_PROJECT" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for API TESTING PROJECT</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-API_TESTING_PROJECT" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-API_TESTING_PROJECT" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">TC.API_PostempDetails</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">startup</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-class before">
+                <span class="method-name">post</span>
+                <span class="method-start">422 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">checkcontenttype</span>
+                <span class="method-start">10828 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkresponse</span>
+                <span class="method-start">10968 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkserver</span>
+                <span class="method-start">11031 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkstatuscode</span>
+                <span class="method-start">11062 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkstatusline</span>
+                <span class="method-start">11156 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">teardown</span>
+                <span class="method-start">11250 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">TC.DELETE_APITesting</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">startup</span>
+                <span class="method-start">11250 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-class before">
+                <span class="method-name">delect</span>
+                <span class="method-start">11281 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">checkContentType</span>
+                <span class="method-start">19437 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkStatusCode</span>
+                <span class="method-start">19453 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkcontentEncoding</span>
+                <span class="method-start">19468 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkresponsebody</span>
+                <span class="method-start">19499 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkserverType</span>
+                <span class="method-start">19520 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkstatusLine</span>
+                <span class="method-start">19536 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">19614 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">TC.Get_API</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">startup</span>
+                <span class="method-start">19629 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-class before">
+                <span class="method-name">get</span>
+                <span class="method-start">19629 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">checkcontentencoding</span>
+                <span class="method-start">24973 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkcontentlength</span>
+                <span class="method-start">24981 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkcontenttype</span>
+                <span class="method-start">24997 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkresponsetime</span>
+                <span class="method-start">25013 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkserver</span>
+                <span class="method-start">25028 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkstatuscode</span>
+                <span class="method-start">25060 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkstatusline</span>
+                <span class="method-start">25075 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">responsebody</span>
+                <span class="method-start">25153 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">teardown</span>
+                <span class="method-start">25169 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">TC.GET_Employedetails</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">startup</span>
+                <span class="method-start">25169 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-class before">
+                <span class="method-name">getempdetails</span>
+                <span class="method-start">25185 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">checkcontentencoding</span>
+                <span class="method-start">31341 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkcontentlength</span>
+                <span class="method-start">31350 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkcontenttype</span>
+                <span class="method-start">31381 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkresponse</span>
+                <span class="method-start">31396 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkresponsetime</span>
+                <span class="method-start">31553 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkserver</span>
+                <span class="method-start">31568 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkstatuscode</span>
+                <span class="method-start">31631 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkstatusline</span>
+                <span class="method-start">31740 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">teardown</span>
+                <span class="method-start">31756 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">TC.PUT_UpdateEmpdetails</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">startup</span>
+                <span class="method-start">31756 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-class before">
+                <span class="method-name">put</span>
+                <span class="method-start">31771 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">checkContentType</span>
+                <span class="method-start">36381 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkStatusCode</span>
+                <span class="method-start">36381 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkcontentEncoding</span>
+                <span class="method-start">36396 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkresponse</span>
+                <span class="method-start">36412 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkserverType</span>
+                <span class="method-start">36442 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkstatusLine</span>
+                <span class="method-start">36457 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">36473 ms</span>
+              </div> <!-- configuration-class after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

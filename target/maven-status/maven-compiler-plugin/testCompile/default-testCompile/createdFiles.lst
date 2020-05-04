@@ -1,0 +1,9 @@
+Utills\reports.class
+Utills\RestUtills.class
+TC\GET_Employedetails.class
+TC\API_PostempDetails.class
+APl\API_FrameWork\AppTest.class
+Base\Baseclass.class
+TC\DELETE_APITesting.class
+TC\Get_API.class
+TC\PUT_UpdateEmpdetails.class

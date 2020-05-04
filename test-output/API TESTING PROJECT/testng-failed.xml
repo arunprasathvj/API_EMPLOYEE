@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [API TESTING PROJECT]">
+  <listeners>
+    <listener class-name="Utills.reports"/>
+  </listeners>
+  <test thread-count="5" name="my won test (failed)">
+    <classes>
+      <class name="TC.GET_Employedetails">
+        <methods>
+          <include name="checkcontentencoding"/>
+          <include name="checkresponse"/>
+          <include name="checkserver"/>
+          <include name="teardown"/>
+          <include name="checkcontenttype"/>
+          <include name="checkstatusline"/>
+          <include name="getempdetails"/>
+          <include name="startup"/>
+          <include name="checkstatuscode"/>
+        </methods>
+      </class> <!-- TC.GET_Employedetails -->
+    </classes>
+  </test> <!-- my won test (failed) -->
+</suite> <!-- Failed suite [API TESTING PROJECT] -->

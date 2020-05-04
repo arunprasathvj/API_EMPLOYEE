@@ -1,0 +1,734 @@
+2020-05-02 21:08:07 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-02 21:08:25 INFO  My Api Project:65 - encoding is =null
+2020-05-02 21:08:25 INFO  My Api Project:73 - content lenght is =595
+2020-05-02 21:08:25 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-02 21:08:25 INFO  My Api Project:84 - content lenght is =4661
+2020-05-02 21:08:25 WARN  My Api Project:86 - time to over 
+2020-05-02 21:08:25 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-02 21:08:26 INFO  My Api Project:37 - status code is =200
+2020-05-02 21:08:26 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-02 21:08:26 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-02 21:08:26 INFO  My Api Project:95 - ****** All Methods Are Pass
+2020-05-02 21:11:41 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-02 21:11:56 INFO  My Api Project:65 - encoding is =null
+2020-05-02 21:11:56 INFO  My Api Project:73 - content lenght is =595
+2020-05-02 21:11:56 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-02 21:11:56 INFO  My Api Project:84 - content lenght is =1719
+2020-05-02 21:11:56 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-02 21:11:56 INFO  My Api Project:37 - status code is =200
+2020-05-02 21:11:56 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-02 21:11:56 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-02 21:11:56 INFO  My Api Project:95 - ****** All Methods Are Pass
+2020-05-02 21:13:35 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-02 21:13:50 INFO  My Api Project:65 - encoding is =gzip
+2020-05-02 21:13:50 INFO  My Api Project:73 - content lenght is =595
+2020-05-02 21:13:50 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-02 21:13:50 INFO  My Api Project:84 - content lenght is =2004
+2020-05-02 21:13:50 WARN  My Api Project:86 - time to over 
+2020-05-02 21:13:50 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-02 21:13:50 INFO  My Api Project:37 - status code is =200
+2020-05-02 21:13:50 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-02 21:13:50 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-02 21:13:50 INFO  My Api Project:95 - ****** All Methods Are Pass
+2020-05-02 21:16:39 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-02 21:16:49 INFO  My Api Project:65 - encoding is =gzip
+2020-05-02 21:16:49 INFO  My Api Project:73 - content lenght is =595
+2020-05-02 21:16:49 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-02 21:16:49 INFO  My Api Project:84 - content lenght is =1359
+2020-05-02 21:16:49 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-02 21:16:49 INFO  My Api Project:37 - status code is =200
+2020-05-02 21:16:49 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-02 21:16:49 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-02 21:16:49 INFO  My Api Project:95 - ****** All Methods Are Pass
+2020-05-02 21:17:33 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-02 21:17:42 INFO  My Api Project:65 - encoding is =gzip
+2020-05-02 21:17:42 INFO  My Api Project:73 - content lenght is =595
+2020-05-02 21:17:42 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-02 21:17:42 INFO  My Api Project:84 - content lenght is =1347
+2020-05-02 21:17:42 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-02 21:17:42 INFO  My Api Project:37 - status code is =200
+2020-05-02 21:17:42 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-02 21:17:42 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-02 21:17:42 INFO  My Api Project:95 - ****** All Methods Are Pass
+2020-05-02 21:18:33 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-02 21:18:41 INFO  My Api Project:65 - encoding is =gzip
+2020-05-02 21:18:41 INFO  My Api Project:73 - content lenght is =595
+2020-05-02 21:18:41 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-02 21:18:41 INFO  My Api Project:84 - content lenght is =1375
+2020-05-02 21:18:41 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-02 21:18:41 INFO  My Api Project:37 - status code is =200
+2020-05-02 21:18:41 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-02 21:18:42 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-02 21:18:42 INFO  My Api Project:95 - ****** All Methods Are Pass
+2020-05-02 21:33:50 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-02 21:33:59 INFO  My Api Project:65 - encoding is =gzip
+2020-05-02 21:33:59 INFO  My Api Project:73 - content lenght is =595
+2020-05-02 21:33:59 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-02 21:33:59 INFO  My Api Project:84 - content lenght is =2259
+2020-05-02 21:33:59 WARN  My Api Project:86 - time to over 
+2020-05-02 21:33:59 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-02 21:33:59 INFO  My Api Project:37 - status code is =200
+2020-05-02 21:33:59 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-02 21:33:59 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-02 21:33:59 INFO  My Api Project:95 - ****** All Methods Are Pass
+2020-05-02 21:35:37 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-02 21:35:46 INFO  My Api Project:65 - encoding is =gzip
+2020-05-02 21:35:46 INFO  My Api Project:73 - content lenght is =595
+2020-05-02 21:35:46 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-02 21:35:46 INFO  My Api Project:84 - content lenght is =1496
+2020-05-02 21:35:46 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-02 21:35:46 INFO  My Api Project:37 - status code is =200
+2020-05-02 21:35:46 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-02 21:35:46 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-02 21:35:46 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-03 16:00:22 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-03 16:00:32 INFO  My Api Project:65 - encoding is =gzip
+2020-05-03 16:00:32 INFO  My Api Project:73 - content lenght is =595
+2020-05-03 16:00:32 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-03 16:00:32 INFO  My Api Project:84 - content lenght is =2496
+2020-05-03 16:00:32 WARN  My Api Project:86 - time to over 
+2020-05-03 16:00:32 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-03 16:00:32 INFO  My Api Project:37 - status code is =200
+2020-05-03 16:00:32 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-03 16:00:32 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-03 16:00:32 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-03 16:21:24 INFO  My Api Project:24 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-03 16:23:06 INFO  My Api Project:24 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-03 16:24:08 INFO  My Api Project:25 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-03 17:03:44 INFO  My Api Project:75 - encoding is =null
+2020-05-03 17:03:44 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-03 17:03:44 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunb","salary":"wZppr","age":"89","id":60}}
+2020-05-03 17:03:44 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-03 17:03:44 INFO  My Api Project:47 - status code is =200
+2020-05-03 17:03:44 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-03 17:03:44 INFO  My Api Project:83 - ****** All Methods Are Pass ******
+2020-05-03 17:05:10 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-03 17:05:10 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunm","salary":"ViVbt","age":"13","id":32}}
+2020-05-03 17:05:10 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-03 17:05:10 INFO  My Api Project:47 - status code is =200
+2020-05-03 17:05:10 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-03 17:05:10 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-03 17:07:21 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-03 17:07:21 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunf","salary":"aUlCO","age":"44","id":58}}
+2020-05-03 17:07:21 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-03 17:07:21 INFO  My Api Project:47 - status code is =200
+2020-05-03 17:07:21 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-03 17:07:21 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-03 17:08:20 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-03 17:08:20 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunF","salary":"MJknA","age":"02","id":30}}
+2020-05-03 17:08:20 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-03 17:08:20 INFO  My Api Project:47 - status code is =200
+2020-05-03 17:08:20 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-03 17:08:20 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-03 17:10:35 INFO  My Api Project:60 - encoding is =null
+2020-05-03 17:10:35 INFO  My Api Project:68 - content lenght is =75
+2020-05-03 17:10:35 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-03 17:10:35 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-03 17:10:35 INFO  My Api Project:79 - content lenght is =3000
+2020-05-03 17:10:35 WARN  My Api Project:81 - time to over 
+2020-05-03 17:10:35 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-03 17:10:35 INFO  My Api Project:32 - status code is =400
+2020-05-03 17:10:35 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-03 17:10:35 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-03 17:12:24 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-03 17:12:24 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunL","salary":"08084","age":"69","id":44}}
+2020-05-03 17:12:24 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-03 17:12:24 INFO  My Api Project:47 - status code is =200
+2020-05-03 17:12:24 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-03 17:12:24 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-03 17:13:35 INFO  My Api Project:60 - encoding is =null
+2020-05-03 17:13:35 INFO  My Api Project:68 - content lenght is =75
+2020-05-03 17:13:35 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-03 17:13:35 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-03 17:13:35 INFO  My Api Project:79 - content lenght is =3417
+2020-05-03 17:13:35 WARN  My Api Project:81 - time to over 
+2020-05-03 17:13:35 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-03 17:13:35 INFO  My Api Project:32 - status code is =400
+2020-05-03 17:13:35 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-03 17:13:35 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-03 17:14:41 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-03 17:14:41 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunS","salary":"83951","age":"87","id":91}}
+2020-05-03 17:14:41 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-03 17:14:41 INFO  My Api Project:47 - status code is =200
+2020-05-03 17:14:41 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-03 17:14:41 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 12:37:48 INFO  My Api Project:22 - *********Started TC004_Put_Employee_Record **********
+2020-05-04 12:37:57 INFO  My Api Project:41 - Response body is ={"status":"success","data":null}
+2020-05-04 12:37:57 INFO  My Api Project:89 - *********  Finished TC004_Put_Employee_Record **********
+2020-05-04 12:39:18 INFO  My Api Project:22 - *********Started TC004_Put_Employee_Record **********
+2020-05-04 12:39:26 INFO  My Api Project:41 - Response body is ={"status":"success","data":null}
+2020-05-04 12:39:26 INFO  My Api Project:89 - *********  Finished TC004_Put_Employee_Record **********
+2020-05-04 12:40:09 INFO  My Api Project:22 - *********Started TC004_Put_Employee_Record **********
+2020-05-04 12:40:18 INFO  My Api Project:41 - Response body is ={"status":"success","data":null}
+2020-05-04 12:40:18 INFO  My Api Project:89 - *********  Finished TC004_Put_Employee_Record **********
+2020-05-04 12:41:45 INFO  My Api Project:22 - *********Started TC004_Put_Employee_Record **********
+2020-05-04 12:41:53 INFO  My Api Project:41 - Response body is ={"status":"success","data":null}
+2020-05-04 12:41:53 INFO  My Api Project:89 - *********  Finished TC004_Put_Employee_Record **********
+2020-05-04 12:42:39 INFO  My Api Project:22 - *********Started TC004_Put_Employee_Record **********
+2020-05-04 12:42:47 INFO  My Api Project:41 - Response body is ={"status":"success","data":null}
+2020-05-04 12:42:47 INFO  My Api Project:85 - *********  Finished TC004_Put_Employee_Record **********
+2020-05-04 12:44:50 INFO  My Api Project:22 - *********Started TC004_Put_Employee_Record **********
+2020-05-04 12:44:59 INFO  My Api Project:41 - Response body is ={"status":"success","data":null}
+2020-05-04 12:44:59 INFO  My Api Project:85 - *********  Finished TC004_Put_Employee_Record **********
+2020-05-04 13:00:23 INFO  My Api Project:29 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 13:02:57 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 13:03:07 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 13:03:07 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 13:04:37 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 13:04:47 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 13:04:47 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 15:40:51 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-04 15:40:51 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 15:40:58 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 15:40:58 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunW","salary":"24302","age":"60","id":45}}
+2020-05-04 15:40:58 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 15:40:58 INFO  My Api Project:47 - status code is =200
+2020-05-04 15:40:58 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 15:40:59 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 15:41:00 INFO  My Api Project:65 - encoding is =null
+2020-05-04 15:41:00 INFO  My Api Project:73 - content lenght is =75
+2020-05-04 15:41:00 WARN  My Api Project:75 - Lenth is lessthen 100
+2020-05-04 15:41:00 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-04 15:41:00 INFO  My Api Project:84 - content lenght is =1321
+2020-05-04 15:41:00 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-04 15:41:01 INFO  My Api Project:37 - status code is =400
+2020-05-04 15:41:01 INFO  My Api Project:44 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 15:41:01 INFO  My Api Project:30 - Response Body  is {"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 15:41:01 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-04 15:41:02 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 15:41:02 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 15:41:05 INFO  My Api Project:60 - encoding is =null
+2020-05-04 15:41:05 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 15:41:05 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 15:41:05 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 15:41:05 INFO  My Api Project:79 - content lenght is =1321
+2020-05-04 15:41:05 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 15:41:05 INFO  My Api Project:32 - status code is =400
+2020-05-04 15:41:05 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 15:41:05 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 15:41:57 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 15:41:58 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunj","salary":"14452","age":"46","id":75}}
+2020-05-04 15:41:58 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 15:41:58 INFO  My Api Project:47 - status code is =200
+2020-05-04 15:41:58 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 15:41:58 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 15:41:58 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 15:42:05 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 15:42:05 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 15:42:05 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-04 15:42:10 INFO  My Api Project:65 - encoding is =gzip
+2020-05-04 15:42:10 INFO  My Api Project:73 - content lenght is =595
+2020-05-04 15:42:10 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-04 15:42:10 INFO  My Api Project:84 - content lenght is =387
+2020-05-04 15:42:10 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-04 15:42:10 INFO  My Api Project:37 - status code is =200
+2020-05-04 15:42:10 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-04 15:42:11 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-04 15:42:11 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-04 15:42:17 INFO  My Api Project:60 - encoding is =null
+2020-05-04 15:42:17 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 15:42:17 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 15:42:17 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 15:42:17 INFO  My Api Project:79 - content lenght is =1513
+2020-05-04 15:42:17 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 15:42:17 INFO  My Api Project:32 - status code is =400
+2020-05-04 15:42:17 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 15:42:17 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 15:48:51 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 15:49:34 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 15:50:51 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 15:50:51 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arune","salary":"99386","age":"30","id":73}}
+2020-05-04 15:50:51 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 15:50:51 INFO  My Api Project:47 - status code is =200
+2020-05-04 15:50:51 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 15:50:51 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 15:51:50 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 16:01:20 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 16:01:20 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunI","salary":"35827","age":"77","id":34}}
+2020-05-04 16:01:20 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 16:01:20 INFO  My Api Project:47 - status code is =200
+2020-05-04 16:01:20 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 16:01:20 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 16:01:20 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 16:01:27 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 16:01:27 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 16:01:27 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-04 16:01:33 INFO  My Api Project:65 - encoding is =gzip
+2020-05-04 16:01:33 INFO  My Api Project:73 - content lenght is =595
+2020-05-04 16:01:33 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-04 16:01:33 INFO  My Api Project:84 - content lenght is =563
+2020-05-04 16:01:33 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-04 16:01:33 INFO  My Api Project:37 - status code is =200
+2020-05-04 16:01:33 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-04 16:01:33 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-04 16:01:33 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-04 16:01:39 INFO  My Api Project:60 - encoding is =null
+2020-05-04 16:01:39 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 16:01:39 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 16:01:39 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 16:01:39 INFO  My Api Project:79 - content lenght is =1427
+2020-05-04 16:01:40 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 16:01:40 INFO  My Api Project:32 - status code is =400
+2020-05-04 16:01:40 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 16:01:40 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 16:02:53 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 16:02:53 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunj","salary":"70920","age":"80","id":34}}
+2020-05-04 16:02:53 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 16:02:53 INFO  My Api Project:47 - status code is =200
+2020-05-04 16:02:53 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 16:02:53 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 16:02:53 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 16:03:00 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 16:03:00 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 16:03:00 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-04 16:03:05 INFO  My Api Project:65 - encoding is =gzip
+2020-05-04 16:03:05 INFO  My Api Project:73 - content lenght is =595
+2020-05-04 16:03:05 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-04 16:03:05 INFO  My Api Project:84 - content lenght is =637
+2020-05-04 16:03:05 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-04 16:03:05 INFO  My Api Project:37 - status code is =200
+2020-05-04 16:03:06 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-04 16:03:06 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-04 16:03:06 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-04 16:03:12 INFO  My Api Project:60 - encoding is =null
+2020-05-04 16:03:12 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 16:03:12 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 16:03:12 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 16:03:12 INFO  My Api Project:79 - content lenght is =1489
+2020-05-04 16:03:12 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 16:03:12 INFO  My Api Project:32 - status code is =400
+2020-05-04 16:03:12 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 16:03:12 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 16:05:46 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 16:05:46 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunT","salary":"16146","age":"22","id":42}}
+2020-05-04 16:05:46 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 16:05:46 INFO  My Api Project:47 - status code is =200
+2020-05-04 16:05:46 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 16:05:46 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 16:05:46 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 16:05:53 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 16:05:53 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 16:05:53 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-04 16:05:59 INFO  My Api Project:65 - encoding is =gzip
+2020-05-04 16:05:59 INFO  My Api Project:73 - content lenght is =595
+2020-05-04 16:05:59 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-04 16:05:59 INFO  My Api Project:84 - content lenght is =297
+2020-05-04 16:05:59 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-04 16:05:59 INFO  My Api Project:37 - status code is =200
+2020-05-04 16:05:59 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-04 16:05:59 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-04 16:05:59 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-04 16:06:06 INFO  My Api Project:60 - encoding is =null
+2020-05-04 16:06:06 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 16:06:06 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 16:06:06 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 16:06:06 INFO  My Api Project:79 - content lenght is =1687
+2020-05-04 16:06:06 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 16:06:06 INFO  My Api Project:32 - status code is =400
+2020-05-04 16:06:06 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 16:06:06 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 16:13:36 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 16:13:36 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunS","salary":"09070","age":"24","id":89}}
+2020-05-04 16:13:36 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 16:13:36 INFO  My Api Project:47 - status code is =200
+2020-05-04 16:13:36 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 16:13:36 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 16:13:36 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 16:13:43 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 16:13:43 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 16:13:43 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-04 16:13:48 INFO  My Api Project:65 - encoding is =gzip
+2020-05-04 16:13:48 INFO  My Api Project:73 - content lenght is =595
+2020-05-04 16:13:48 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-04 16:13:48 INFO  My Api Project:84 - content lenght is =460
+2020-05-04 16:13:48 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-04 16:13:48 INFO  My Api Project:37 - status code is =200
+2020-05-04 16:13:48 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-04 16:13:49 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-04 16:13:49 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-04 16:13:55 INFO  My Api Project:60 - encoding is =null
+2020-05-04 16:13:55 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 16:13:55 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 16:13:55 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 16:13:55 INFO  My Api Project:79 - content lenght is =1165
+2020-05-04 16:13:55 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 16:13:55 INFO  My Api Project:32 - status code is =400
+2020-05-04 16:13:55 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 16:13:55 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 16:19:08 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 16:19:09 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunZ","salary":"59224","age":"28","id":37}}
+2020-05-04 16:19:09 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 16:19:09 INFO  My Api Project:47 - status code is =200
+2020-05-04 16:19:09 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 16:19:09 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 16:19:09 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 16:19:17 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 16:19:17 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 16:19:17 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-04 16:19:22 INFO  My Api Project:65 - encoding is =gzip
+2020-05-04 16:19:22 INFO  My Api Project:73 - content lenght is =595
+2020-05-04 16:19:22 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-04 16:19:22 INFO  My Api Project:84 - content lenght is =299
+2020-05-04 16:19:22 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-04 16:19:22 INFO  My Api Project:37 - status code is =200
+2020-05-04 16:19:22 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-04 16:19:22 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-04 16:19:22 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-04 16:19:29 INFO  My Api Project:60 - encoding is =null
+2020-05-04 16:19:29 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 16:19:29 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 16:19:29 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 16:19:29 INFO  My Api Project:79 - content lenght is =1444
+2020-05-04 16:19:29 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 16:19:29 INFO  My Api Project:32 - status code is =400
+2020-05-04 16:19:29 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 16:19:29 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 16:28:38 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 16:28:39 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunq","salary":"62982","age":"85","id":27}}
+2020-05-04 16:28:39 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 16:28:39 INFO  My Api Project:47 - status code is =200
+2020-05-04 16:28:39 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 16:28:39 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 16:28:39 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 16:28:54 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 16:28:54 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 16:28:54 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-04 16:29:00 INFO  My Api Project:65 - encoding is =gzip
+2020-05-04 16:29:00 INFO  My Api Project:73 - content lenght is =595
+2020-05-04 16:29:00 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-04 16:29:00 INFO  My Api Project:84 - content lenght is =692
+2020-05-04 16:29:00 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-04 16:29:00 INFO  My Api Project:37 - status code is =200
+2020-05-04 16:29:00 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-04 16:29:00 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-04 16:29:00 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-04 16:29:07 INFO  My Api Project:60 - encoding is =null
+2020-05-04 16:29:07 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 16:29:07 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 16:29:07 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 16:29:07 INFO  My Api Project:79 - content lenght is =1511
+2020-05-04 16:29:07 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 16:29:07 INFO  My Api Project:32 - status code is =400
+2020-05-04 16:29:07 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 16:29:07 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 16:34:30 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 16:34:30 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunB","salary":"68000","age":"91","id":49}}
+2020-05-04 16:34:30 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 16:34:30 INFO  My Api Project:47 - status code is =200
+2020-05-04 16:34:30 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 16:34:30 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 16:34:30 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 16:34:38 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 16:34:38 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 16:34:38 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-04 16:34:44 INFO  My Api Project:65 - encoding is =gzip
+2020-05-04 16:34:44 INFO  My Api Project:73 - content lenght is =595
+2020-05-04 16:34:44 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-04 16:34:44 INFO  My Api Project:84 - content lenght is =371
+2020-05-04 16:34:44 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-04 16:34:44 INFO  My Api Project:37 - status code is =200
+2020-05-04 16:34:44 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-04 16:34:44 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-04 16:34:45 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-04 16:34:51 INFO  My Api Project:60 - encoding is =null
+2020-05-04 16:34:51 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 16:34:51 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 16:34:51 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 16:34:51 INFO  My Api Project:79 - content lenght is =1351
+2020-05-04 16:34:51 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 16:34:51 INFO  My Api Project:32 - status code is =400
+2020-05-04 16:34:51 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 16:34:51 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 16:34:51 INFO  My Api Project:22 - *********Started TC004_Put_Employee_Record **********
+2020-05-04 16:34:56 INFO  My Api Project:41 - Response body is ={"status":"success","data":null}
+2020-05-04 16:34:56 INFO  My Api Project:85 - *********  Finished TC004_Put_Employee_Record **********
+2020-05-04 16:36:17 INFO  My Api Project:60 - encoding is =null
+2020-05-04 16:36:17 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 16:36:17 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 16:36:17 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 16:36:17 INFO  My Api Project:79 - content lenght is =3471
+2020-05-04 16:36:17 WARN  My Api Project:81 - time to over 
+2020-05-04 16:36:17 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 16:36:17 INFO  My Api Project:32 - status code is =400
+2020-05-04 16:36:17 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 16:36:17 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 16:37:03 INFO  My Api Project:60 - encoding is =null
+2020-05-04 16:37:03 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 16:37:03 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 16:37:03 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 16:37:03 INFO  My Api Project:79 - content lenght is =4313
+2020-05-04 16:37:03 WARN  My Api Project:81 - time to over 
+2020-05-04 16:37:03 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 16:37:03 INFO  My Api Project:32 - status code is =400
+2020-05-04 16:37:03 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 16:37:03 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 16:39:19 INFO  My Api Project:60 - encoding is =null
+2020-05-04 16:39:19 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 16:39:19 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 16:39:20 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 16:39:20 INFO  My Api Project:79 - content lenght is =3922
+2020-05-04 16:39:20 WARN  My Api Project:81 - time to over 
+2020-05-04 16:39:20 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 16:39:20 INFO  My Api Project:32 - status code is =400
+2020-05-04 16:39:20 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 16:39:20 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 16:43:17 INFO  My Api Project:60 - encoding is =null
+2020-05-04 16:43:17 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 16:43:17 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 16:43:17 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 16:43:17 INFO  My Api Project:79 - content lenght is =4047
+2020-05-04 16:43:17 WARN  My Api Project:81 - time to over 
+2020-05-04 16:43:17 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 16:43:18 INFO  My Api Project:32 - status code is =400
+2020-05-04 16:43:18 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 16:43:18 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 16:43:56 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 16:43:56 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunJ","salary":"95605","age":"11","id":43}}
+2020-05-04 16:43:56 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 16:43:56 INFO  My Api Project:47 - status code is =200
+2020-05-04 16:43:56 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 16:43:56 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 16:43:56 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 16:44:04 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 16:44:05 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 16:44:05 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-04 16:44:10 INFO  My Api Project:65 - encoding is =gzip
+2020-05-04 16:44:10 INFO  My Api Project:73 - content lenght is =595
+2020-05-04 16:44:10 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-04 16:44:10 INFO  My Api Project:84 - content lenght is =297
+2020-05-04 16:44:10 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-04 16:44:10 INFO  My Api Project:37 - status code is =200
+2020-05-04 16:44:10 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-04 16:44:10 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-04 16:44:10 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-04 16:44:16 INFO  My Api Project:60 - encoding is =null
+2020-05-04 16:44:16 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 16:44:16 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 16:44:17 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 16:44:17 INFO  My Api Project:79 - content lenght is =1125
+2020-05-04 16:44:17 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 16:44:17 INFO  My Api Project:32 - status code is =400
+2020-05-04 16:44:17 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 16:44:17 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 16:44:17 INFO  My Api Project:22 - *********Started TC004_Put_Employee_Record **********
+2020-05-04 16:44:21 INFO  My Api Project:41 - Response body is ={"status":"success","data":null}
+2020-05-04 16:44:21 INFO  My Api Project:85 - *********  Finished TC004_Put_Employee_Record **********
+2020-05-04 17:04:47 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 17:04:47 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunX","salary":"07420","age":"10","id":37}}
+2020-05-04 17:04:47 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 17:04:47 INFO  My Api Project:47 - status code is =200
+2020-05-04 17:04:47 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 17:04:47 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 17:04:47 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 17:05:02 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 17:05:02 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 17:05:02 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-04 17:05:07 INFO  My Api Project:65 - encoding is =gzip
+2020-05-04 17:05:07 INFO  My Api Project:73 - content lenght is =595
+2020-05-04 17:05:07 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-04 17:05:07 INFO  My Api Project:84 - content lenght is =281
+2020-05-04 17:05:07 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-04 17:05:07 INFO  My Api Project:37 - status code is =200
+2020-05-04 17:05:07 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-04 17:05:07 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-04 17:05:07 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-04 17:05:14 INFO  My Api Project:60 - encoding is =null
+2020-05-04 17:05:14 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 17:05:14 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 17:05:14 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 17:05:14 INFO  My Api Project:79 - content lenght is =1380
+2020-05-04 17:05:14 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 17:05:14 INFO  My Api Project:32 - status code is =400
+2020-05-04 17:05:14 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 17:05:14 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 17:05:14 INFO  My Api Project:22 - *********Started TC004_Put_Employee_Record **********
+2020-05-04 17:05:18 INFO  My Api Project:41 - Response body is ={"status":"success","data":null}
+2020-05-04 17:05:18 INFO  My Api Project:85 - *********  Finished TC004_Put_Employee_Record **********
+2020-05-04 17:10:00 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 17:10:00 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunZ","salary":"64724","age":"07","id":62}}
+2020-05-04 17:10:00 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 17:10:00 INFO  My Api Project:47 - status code is =200
+2020-05-04 17:10:00 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 17:10:00 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 17:10:00 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 17:10:09 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 17:10:09 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 17:10:09 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-04 17:10:14 INFO  My Api Project:65 - encoding is =gzip
+2020-05-04 17:10:14 INFO  My Api Project:73 - content lenght is =595
+2020-05-04 17:10:14 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-04 17:10:14 INFO  My Api Project:84 - content lenght is =344
+2020-05-04 17:10:14 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-04 17:10:14 INFO  My Api Project:37 - status code is =200
+2020-05-04 17:10:14 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-04 17:10:14 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-04 17:10:14 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-04 17:10:20 INFO  My Api Project:60 - encoding is =null
+2020-05-04 17:10:20 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 17:10:20 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 17:10:20 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 17:10:20 INFO  My Api Project:79 - content lenght is =1078
+2020-05-04 17:10:20 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 17:10:20 INFO  My Api Project:32 - status code is =400
+2020-05-04 17:10:20 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 17:10:20 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 17:10:20 INFO  My Api Project:22 - *********Started TC004_Put_Employee_Record **********
+2020-05-04 17:10:25 INFO  My Api Project:41 - Response body is ={"status":"success","data":null}
+2020-05-04 17:10:25 INFO  My Api Project:85 - *********  Finished TC004_Put_Employee_Record **********
+2020-05-04 17:16:04 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 17:16:04 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunl","salary":"51412","age":"28","id":76}}
+2020-05-04 17:16:04 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 17:16:04 INFO  My Api Project:47 - status code is =200
+2020-05-04 17:16:04 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 17:16:04 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 17:16:04 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 17:16:12 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 17:16:12 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 17:16:12 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-04 17:16:17 INFO  My Api Project:65 - encoding is =gzip
+2020-05-04 17:16:17 INFO  My Api Project:73 - content lenght is =595
+2020-05-04 17:16:17 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-04 17:16:17 INFO  My Api Project:84 - content lenght is =250
+2020-05-04 17:16:17 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-04 17:16:17 INFO  My Api Project:37 - status code is =200
+2020-05-04 17:16:17 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-04 17:16:17 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-04 17:16:17 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-04 17:16:23 INFO  My Api Project:60 - encoding is =null
+2020-05-04 17:16:23 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 17:16:23 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 17:16:23 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 17:16:23 INFO  My Api Project:79 - content lenght is =1078
+2020-05-04 17:16:23 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 17:16:23 INFO  My Api Project:32 - status code is =400
+2020-05-04 17:16:23 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 17:16:23 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 17:16:23 INFO  My Api Project:22 - *********Started TC004_Put_Employee_Record **********
+2020-05-04 17:16:28 INFO  My Api Project:41 - Response body is ={"status":"success","data":null}
+2020-05-04 17:16:28 INFO  My Api Project:85 - *********  Finished TC004_Put_Employee_Record **********
+2020-05-04 17:17:41 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 17:17:41 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunq","salary":"03741","age":"32","id":68}}
+2020-05-04 17:17:41 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 17:17:41 INFO  My Api Project:47 - status code is =200
+2020-05-04 17:17:41 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 17:17:41 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 17:17:41 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 17:17:47 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 17:17:47 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 17:17:47 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-04 17:17:53 INFO  My Api Project:65 - encoding is =gzip
+2020-05-04 17:17:53 INFO  My Api Project:73 - content lenght is =595
+2020-05-04 17:17:53 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-04 17:17:53 INFO  My Api Project:84 - content lenght is =297
+2020-05-04 17:17:53 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-04 17:17:53 INFO  My Api Project:37 - status code is =200
+2020-05-04 17:17:53 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-04 17:17:53 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-04 17:17:53 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-04 17:17:59 INFO  My Api Project:60 - encoding is =null
+2020-05-04 17:17:59 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 17:17:59 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 17:17:59 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 17:17:59 INFO  My Api Project:79 - content lenght is =1171
+2020-05-04 17:17:59 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 17:17:59 INFO  My Api Project:32 - status code is =400
+2020-05-04 17:17:59 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 17:17:59 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 17:17:59 INFO  My Api Project:22 - *********Started TC004_Put_Employee_Record **********
+2020-05-04 17:18:03 INFO  My Api Project:41 - Response body is ={"status":"success","data":null}
+2020-05-04 17:18:03 INFO  My Api Project:85 - *********  Finished TC004_Put_Employee_Record **********
+2020-05-04 19:01:07 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 19:01:07 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunT","salary":"71524","age":"34","id":32}}
+2020-05-04 19:01:07 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 19:01:07 INFO  My Api Project:47 - status code is =200
+2020-05-04 19:01:07 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 19:01:07 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 19:01:07 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 19:01:13 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 19:01:13 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 19:01:13 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-04 19:01:19 INFO  My Api Project:65 - encoding is =gzip
+2020-05-04 19:01:19 INFO  My Api Project:73 - content lenght is =595
+2020-05-04 19:01:19 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-04 19:01:19 INFO  My Api Project:84 - content lenght is =217
+2020-05-04 19:01:19 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-04 19:01:19 INFO  My Api Project:37 - status code is =200
+2020-05-04 19:01:19 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-04 19:01:19 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-04 19:01:19 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-04 19:01:25 INFO  My Api Project:60 - encoding is =null
+2020-05-04 19:01:25 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 19:01:25 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 19:01:25 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 19:01:25 INFO  My Api Project:79 - content lenght is =935
+2020-05-04 19:01:25 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 19:01:25 INFO  My Api Project:32 - status code is =400
+2020-05-04 19:01:25 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 19:01:25 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 19:01:25 INFO  My Api Project:22 - *********Started TC004_Put_Employee_Record **********
+2020-05-04 19:01:29 INFO  My Api Project:41 - Response body is ={"status":"success","data":null}
+2020-05-04 19:01:29 INFO  My Api Project:85 - *********  Finished TC004_Put_Employee_Record **********
+2020-05-04 19:07:04 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 19:07:04 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunq","salary":"72481","age":"53","id":67}}
+2020-05-04 19:07:04 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 19:07:04 INFO  My Api Project:47 - status code is =200
+2020-05-04 19:07:04 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 19:07:04 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 19:07:04 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 19:07:11 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 19:07:11 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 19:07:11 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-04 19:07:19 INFO  My Api Project:65 - encoding is =gzip
+2020-05-04 19:07:19 INFO  My Api Project:73 - content lenght is =595
+2020-05-04 19:07:19 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-04 19:07:19 INFO  My Api Project:84 - content lenght is =2894
+2020-05-04 19:07:19 WARN  My Api Project:86 - time to over 
+2020-05-04 19:07:19 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-04 19:07:19 INFO  My Api Project:37 - status code is =200
+2020-05-04 19:07:19 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-04 19:07:19 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-04 19:07:19 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-04 19:07:28 INFO  My Api Project:60 - encoding is =null
+2020-05-04 19:07:28 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 19:07:28 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 19:07:28 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 19:07:28 INFO  My Api Project:79 - content lenght is =3492
+2020-05-04 19:07:28 WARN  My Api Project:81 - time to over 
+2020-05-04 19:07:28 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 19:07:28 INFO  My Api Project:32 - status code is =400
+2020-05-04 19:07:28 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 19:07:28 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 19:07:28 INFO  My Api Project:22 - *********Started TC004_Put_Employee_Record **********
+2020-05-04 19:07:32 INFO  My Api Project:41 - Response body is ={"status":"success","data":null}
+2020-05-04 19:07:32 INFO  My Api Project:85 - *********  Finished TC004_Put_Employee_Record **********
+2020-05-04 19:15:00 INFO  My Api Project:61 - content type is =application/json;charset=utf-8
+2020-05-04 19:15:00 INFO  My Api Project:38 - Ressponse Body is ={"status":"success","data":{"name":"arunE","salary":"42825","age":"09","id":92}}
+2020-05-04 19:15:00 INFO  My Api Project:68 - server type is =nginx/1.16.0
+2020-05-04 19:15:00 INFO  My Api Project:47 - status code is =200
+2020-05-04 19:15:00 INFO  My Api Project:54 - status Line is =HTTP/1.1 200 OK
+2020-05-04 19:15:00 INFO  My Api Project:77 - ****** All Methods Are Pass ******
+2020-05-04 19:15:00 INFO  My Api Project:18 - *********Started TC005_Delete_Employee_Record **********
+2020-05-04 19:15:06 INFO  My Api Project:31 - Response Body = {"status":"failed","message":"Error! Not able to delete record"}
+2020-05-04 19:15:06 INFO  My Api Project:75 - *********  Finished TC005_Delete_Employee_Record **********
+2020-05-04 19:15:06 INFO  My Api Project:18 -  ***** Method is Started *******
+2020-05-04 19:15:12 INFO  My Api Project:65 - encoding is =gzip
+2020-05-04 19:15:12 INFO  My Api Project:73 - content lenght is =595
+2020-05-04 19:15:12 INFO  My Api Project:51 - content type is =application/json;charset=utf-8
+2020-05-04 19:15:12 INFO  My Api Project:84 - content lenght is =237
+2020-05-04 19:15:12 INFO  My Api Project:58 - server type is =nginx/1.16.0
+2020-05-04 19:15:12 INFO  My Api Project:37 - status code is =200
+2020-05-04 19:15:12 INFO  My Api Project:44 - status Line is =HTTP/1.1 200 OK
+2020-05-04 19:15:12 INFO  My Api Project:30 - Response Body  is {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-04 19:15:12 INFO  My Api Project:95 - ****** All Methods Are Pass ******
+2020-05-04 19:15:18 INFO  My Api Project:60 - encoding is =null
+2020-05-04 19:15:18 INFO  My Api Project:68 - content lenght is =75
+2020-05-04 19:15:18 INFO  My Api Project:46 - content type is =application/json;charset=utf-8
+2020-05-04 19:15:18 INFO  My Api Project:26 - Ressponse Body is ={"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-04 19:15:18 INFO  My Api Project:79 - content lenght is =1016
+2020-05-04 19:15:18 INFO  My Api Project:53 - server type is =nginx/1.16.0
+2020-05-04 19:15:18 INFO  My Api Project:32 - status code is =400
+2020-05-04 19:15:18 INFO  My Api Project:39 - status Line is =HTTP/1.1 400 Bad Request
+2020-05-04 19:15:18 INFO  My Api Project:90 - ****** All Methods Are Pass ******
+2020-05-04 19:15:18 INFO  My Api Project:22 - *********Started TC004_Put_Employee_Record **********
+2020-05-04 19:15:22 INFO  My Api Project:41 - Response body is ={"status":"success","data":null}
+2020-05-04 19:15:22 INFO  My Api Project:85 - *********  Finished TC004_Put_Employee_Record **********
